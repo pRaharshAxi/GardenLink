@@ -1,0 +1,1 @@
+// Joi schema for .env
